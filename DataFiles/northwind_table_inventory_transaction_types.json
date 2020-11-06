@@ -1,0 +1,8 @@
+,{"type":"table","name":"inventory_transaction_types","database":"northwind","data":
+[
+{"id":"1","type_name":"Purchased"},
+{"id":"2","type_name":"Sold"},
+{"id":"3","type_name":"On Hold"},
+{"id":"4","type_name":"Waste"}
+]
+}

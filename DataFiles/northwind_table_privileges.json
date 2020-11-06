@@ -1,0 +1,5 @@
+,{"type":"table","name":"privileges","database":"northwind","data":
+[
+{"id":"2","privilege_name":"Purchase Approvals"}
+]
+}

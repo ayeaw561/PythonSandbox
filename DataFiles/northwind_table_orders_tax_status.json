@@ -1,0 +1,6 @@
+,{"type":"table","name":"orders_tax_status","database":"northwind","data":
+[
+{"id":"0","tax_status_name":"Tax Exempt"},
+{"id":"1","tax_status_name":"Taxable"}
+]
+}
