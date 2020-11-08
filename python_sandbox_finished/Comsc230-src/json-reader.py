@@ -46,8 +46,9 @@ input_json = """
 
 fileName= 'employees.json'
 
-folderPath = 'C:\Users\alexa\Documents\GitHub\Comsc230-python-sandbox\DataFiles\'
-filePath = folderPath+'/'+fileName
+folderPath = 'C:\\Users\\alexa\\Documents\\GitHub\\Comsc230-python-sandbox\\DataFiles'
+
+filePath = folderPath + '\\' + fileName
 
 ####  Open and read the raw data from the JSON file
         
